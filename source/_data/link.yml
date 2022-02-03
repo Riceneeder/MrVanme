@@ -1,0 +1,13 @@
+- class_name: 友情链接
+  class_desc: 想要添加友链请邮箱联系~~
+  link_list:
+  - name: 孤寂博客
+    link: http://duanyu.tk/
+    avatar: https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@latest/assets/img/logo.jpg
+    descr: 给时光以生命，给岁月以文明
+  - name: 乐下载虚拟主机
+    link: http://idc.letec.xyz/
+    avatar: https://p.qlogo.cn/gh/707537805/950336404/100
+    descr: 永远，最好的服务商
+
+
